@@ -4,10 +4,6 @@
 # Jika direcode maka akan kuaktifkan virusnya
 # Sehingga hape anda rusak dan takkan hidup lagi
 
-###### IMPORT MODULE ######
-
-import requests,mechanize,bs4,sys,os,subprocess,uuid,random,time,re,base64,json,concurrent.futures
-from concurrent.futures import ThreadPoolExecutor as ThreadPool
 
 ###### RANDOM WARNA ######
 
